@@ -31,7 +31,7 @@ versions of Mocha.
 This is required to allow this tool to 'talk' to Flame. 
 
 - Download it from the **Logik Portal** 
-  website: <https://logik-portal.com/scripts/#logik_backdoor>, or
+  website: <https://logik-portal.com/scripts/logik_backdoor>, or
 - Get it from the **Logik Portal** app inside Flame
   (Flame main menu → **Logik → Logik Portal**), listed under the Python scripts.
 
